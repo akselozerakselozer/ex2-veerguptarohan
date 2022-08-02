@@ -9,6 +9,16 @@
       "comparison": "included",
       "timeout": 10,
       "points": null
+    },
+    {
+      "name": "ex3",
+      "setup": "",
+      "run": "cmake --build build --config Debug",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
     }
   ]
 }
